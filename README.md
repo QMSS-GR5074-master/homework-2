@@ -3,7 +3,7 @@
 ## Instructions
 
 1. Use the [**COVID Image Classification Hackathon** competition](https://www.modelshare.org/detail/model:1539) created for this homework. In particular, rely on the instructions and starter code in the [**COVID image classification starter code** notebook](https://www.modelshare.org/notebooks/notebook:340) to load the correct train and tests sets, and to submit your model.
-2.Write a report in a Jupyter notebook and `push` it to your homeowrk repo. When you are done with your homework **submit the link to this GitHub repo through Courseworks**.
+2.Write a report in a Jupyter notebook and `push` it to your homework repo. When you are done with your homework **submit the link to this GitHub repo through Courseworks**.
 
 ---
 
